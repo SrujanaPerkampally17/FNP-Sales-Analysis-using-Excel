@@ -44,7 +44,9 @@ This analysis is supported by a visual  Excel dashboard that includes:
 - 📊 Revenue trends by occasion, month, and hour  
 - 🏆 Top-selling products and categories 
 - 🌍 City-wise order distribution 
-- ⏳ Order vs. Delivery time insights 
+- ⏳ Order vs. Delivery time insights
+
+![I>mage](https://github.com/user-attachments/assets/c9cc075e-6311-42b5-96c0-c8dcd95d6867)
 
 Potential Business Impact : 
 🔹 Marketing Strategy: Target high-revenue occasions and peak sales hours.  
